@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cobblestone"
+        },
+        {
+            "item": "philosopher:philosophersstone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gravel",
+        "count": 8
+    }
+}

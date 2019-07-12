@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "philosopher:philosophersstone"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        },
+        {
+            "item": "minecraft:gold_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:redstone_ore",
+        "count": 1
+    }
+}

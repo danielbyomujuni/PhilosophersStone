@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_ore"
+        },
+        {
+            "item": "philosopher:philosophersstone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal_ore",
+        "count": 8
+    }
+}

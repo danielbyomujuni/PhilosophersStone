@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "philosopher:philosophersstone"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        },
+        {
+            "item": "minecraft:diamond_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:emerald_ore",
+        "count": 1
+    }
+}

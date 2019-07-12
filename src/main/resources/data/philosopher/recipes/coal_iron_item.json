@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "philosopher:philosophersstone"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 1
+    }
+}
